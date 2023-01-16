@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+table tr th{
+	color: blue;	
+}
+table, th, td {
+  border: 2px solid;
+	color: red;
+}
+table {
+  width: 100%;
+}
